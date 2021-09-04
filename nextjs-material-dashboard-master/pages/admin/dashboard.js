@@ -138,7 +138,7 @@ function Dashboard() {
               <h4 className={classes.cardTitle}>Daily Sales</h4>
               <p className={classes.cardCategory}>
                 <span className={classes.successText}>
-                  <ArrowUpward className={classes.upArrowCardCategory} /> 40%
+                  <ArrowUpward className={classes.upArrowCardCategory} /> 35%
                 </span>{" "}
                 increase in today sales.
               </p>
